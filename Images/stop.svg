@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.000004mm"
+   height="22.999996mm"
+   viewBox="0 0 23.000004 22.999996"
+   version="1.1"
+   id="svg8226"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8228"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs8223" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.602086,-48.114848)">
+    <rect
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-dasharray:none"
+       id="rect8342"
+       width="20"
+       height="20"
+       x="44.102089"
+       y="49.614849"
+       ry="1.4617915"
+       inkscape:export-filename="stop.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:25.4px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-dasharray:none"
+       x="54.06488"
+       y="68.705765"
+       id="text8982"><tspan
+         sodipodi:role="line"
+         id="tspan8980"
+         style="font-size:25.4px;fill:#ffffff;stroke:none;stroke-width:3"
+         x="54.06488"
+         y="68.705765">!</tspan></text>
+  </g>
+</svg>
