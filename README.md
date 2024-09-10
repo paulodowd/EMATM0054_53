@@ -10,7 +10,7 @@ The Labsheets provide some icons to help you navigate quickly.
 <br><br>
 <img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/tick.png" align="left"> This is a section that provides advice on best practice, or confirms what we have achieved so far.
 <br><br>
-<img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/exercise.png" align="left"> This is a section that contains **exercises**: you are expected to find solutions, usually by writing code.
+<img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/exercise.png" align="left"> This is a section that contains **exercises**: you are expected to find solutions, usually by writing code.  If you are in a hurry, you can scan the labsheets to find these yellow icons.
 <br><br>
 <img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/validate.png" align="left"> This is a section that guides you to validate and confirm the operation of your work.  This is an important practice in robotics.  Make sure your solutions are working as you expect them to!
 <br><br>
