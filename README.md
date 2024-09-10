@@ -4,7 +4,7 @@ Teaching materials for unit EMATM0054/53
 # Navigating the Labsheets
 The Labsheets provide some icons to help you navigate quickly.  
 
-<img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/theory.png" align="left"> This is a section that provides background theory for what we are about to work on.
+<img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/theory.png" align="left"> This is a section that provides background theory for what we are about to work on.  You can complete the exercises without the theory, but you will be able to make smarter choices if you gain a deeper understanding first.
 <br><br>
 <img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/stop.png" align="left"> This is a section that contains important information you must respect to avoid damaging the robot, or to stay within the requirements for your Assessments.
 <br><br>
