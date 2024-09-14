@@ -22,3 +22,5 @@ The Labsheets provide some icons to help you navigate quickly.
 <br><br>
 
 # Assessment 1
+<br>
+<img src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/CourseworkMap_image.jpg">
