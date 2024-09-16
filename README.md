@@ -38,3 +38,9 @@ The below Labsheets make extensive use of some incomplete template code provided
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L4_SystemIntegration.ipynb) | **Labsheet 4**: System Integration |  Exercises improve the structure of your code, as well exercises to develop precise movement to complete Assessment 1.  |
 
 
+# Assessment 2 Projects
+
+Your team will have been randomly assigned one of the below projects.  If you would like to propose your own project, please change the project number to 'p' in the Team Allocation spreadsheet.
+
+
+
