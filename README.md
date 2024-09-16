@@ -22,6 +22,8 @@ The Labsheets provide some icons to help you navigate quickly.
 <br><br>
 
 # Trouble Shooting (FAQ)
+|---------------|----------------|----------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/TroubleShooting_FAQ.ipynb) | **TroubleShooting/FAQ** | Help for common problems, like "my robot won't connect" |
 
 # Assessment 1 Labsheets
 |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Labsheet Title | Description |
