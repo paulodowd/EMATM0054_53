@@ -24,7 +24,8 @@ The Labsheets provide some icons to help you navigate quickly.
 # Trouble Shooting (FAQ)
 
 # Assessment 1 Labsheets
-|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            | Labsheet Title | Description |
+|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Labsheet Title | Description |
+|---------------|----------------|----------------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L0_GettingStarted.ipynb) | **Labsheet 0:** Getting Started, Uploading, Debugging, millis() | Instructions on how to get started, and exercises for non-blocking code. |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L1_Motors.ipynb) | **Labsheet 1**: Motors |  Exercises to get your robot moving, steps to be confident that your code will behave predictably, building up a Class.  Advanced Exercises include PID Control |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L2_LineSensors.ipynb) | **Labsheet 2**: Line Sensors | Incremental Exerices to get the Line Sensors working, and to get your robot to stay within the coursework map.  |
