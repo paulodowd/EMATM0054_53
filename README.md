@@ -1,4 +1,4 @@
-# EMATM0054_53
+# EMATM0054/53 Robotic Systems
 Teaching materials for unit EMATM0054/53
 
 # Navigating the Labsheets
@@ -20,6 +20,10 @@ The Labsheets provide some icons to help you navigate quickly.
 <br><br>
 <img width="40px" src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/hypothesis.png" align="left"> This is a section that asks you to make a prediction or theory, drawing on your knowledge and experience so far.  You will also want to consider how you could then observe and measure the effects.
 <br><br>
+
+# Pololu 3Pi+ Code Stub
+
+The below Labsheets make extensive use of some incomplete template code provided for you under the `3Pi_CodeStub` directory above.  Alternatively, visit <a href="https://github.com/paulodowd/EMATM0054_53/tree/main/3Pi_CodeStub">this link</a>.
 
 # Trouble Shooting (FAQ)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/TroubleShooting_FAQ.ipynb) **TroubleShooting/FAQ**:  Help for common problems, like **"my robot won't connect"** 
