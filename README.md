@@ -46,6 +46,6 @@ Your team will have been randomly assigned one of the below projects.  You can c
 |---------------|----------------|----------------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Projects/Project_1_Box_Pushing.ipynb) | **Project 1:** Box Pushing | Investigating Collaborative Box Pushing behaviour with multiple robots. |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Projects/Project_2_Leader_Follower.ipynb) | **Project 2**: Leader-Follower |  Investigating Path Formation and Control with Multiple Robots |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Projects/Project_3_GradientBasedPositionControl.ipynb) | **Labsheet 3**: Gradient Based Position Control | Investigating Sensor Processing and it's effect on a Localisation Task.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Projects/Project_3_GradientBasedPositionControl.ipynb) | **Project 3**: Gradient Based Position Control | Investigating Sensor Processing and it's effect on a Localisation Task.  |
 
 
