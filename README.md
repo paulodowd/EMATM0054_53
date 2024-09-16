@@ -33,7 +33,4 @@ The Labsheets provide some icons to help you navigate quickly.
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L3_Magnetometer.ipynb) | **Labsheet 3**: Magnetometer | Exercises to install and use a software library, to enable your robot to detect a magnet.  |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L4_SystemIntegration.ipynb) | **Labsheet 4**: System Integration |  Exercises improve the structure of your code, as well exercises to develop precise movement to complete Assessment 1.  |
 
-# Assessment 2 Labsheets
 
-<br>
-<img src="https://raw.githubusercontent.com/paulodowd/EMATM0054_53/main/Images/CourseworkMap_image.jpg">
