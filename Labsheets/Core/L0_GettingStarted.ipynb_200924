@@ -1616,7 +1616,7 @@
       "cell_type": "markdown",
       "source": [
         "1. Create a **global variable** of type `unsigned long` at the top of your program that we will use to store the `beep stop time`.  Give this variable a useful name.\n",
-        "2. Create a function that we will call to set a beep with a requested duration.  Something like, `void setBeep( unsigned long duration_ms) {}`.\n",
+        "2. Create a function that we will call to set a beep with a requested duration.  Something like, `void startBeep( unsigned long duration_ms) {}`.\n",
         "3. In this function you just created (i.e. `void setBeep( unsigned long duration_ms) {`):\n",
         "  - activate the buzzer using `analogWrite()`\n",
         "  - using a call to `millis()`, add the requested `duration_ms` to the results of `millis()`\n",
@@ -1636,7 +1636,7 @@
         "\n",
         "  // Activate a beep in setup, which should only\n",
         "  // occur once when you turn the robot on.\n",
-        "  setBeep( 250 );\n",
+        "  startBeep( 250 );\n",
         "}\n",
         "\n",
         "void loop() {\n",
