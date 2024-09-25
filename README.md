@@ -37,6 +37,17 @@ The below Labsheets make extensive use of some incomplete template code provided
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L3_Magnetometer.ipynb) | **Labsheet 3**: Magnetometer | Exercises to install and use a software library, to enable your robot to detect a magnet.  |
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Core/L4_SystemIntegration.ipynb) | **Labsheet 4**: System Integration |  Exercises improve the structure of your code, as well exercises to develop precise movement to complete Assessment 1.  |
 
+# Supplementary Labsheets
+The following Labsheets are supplementary, and therefore are not considered necessary to complete Assessment 1.  You may find them more useful for Assessment 2.
+|  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    | Labsheet Title | Description |
+|---------------|----------------|----------------|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL0_MeasuringBatteryVoltage.ipynb) | **S. Labsheet 0:** Battery Measurement | Guidance on measuring the battery level of the 3Pi robot. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL1_InterruptsAndTimers.ipynb) | **S. Labsheet 1**: Interrupts |  Advanced exercises to utilise a timer for precision execution of code.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL2_BumpSensors.ipynb) | **S. Labsheet 2**:  Bump Sensors | Guidance on using the Bump Sensors for collision detection or ambient light measurement.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL3_InertialSensors.ipynb) | **S. Labsheet 3**: Inertial Sensors | Guidance on using the Accelerometer and Gyroscope sensors.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL4_3Pi_Display.ipynb) | **S. Labsheet 4**: Display Module |  Guidance and examples of using the LCD or OLED display for the 3Pi robot.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL5_ResultsOverSerial.ipynb) | **S. Labsheet 5**: Results over Serial |  Guiding on collecting measurements for experiments and reporting them over Serial.  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/EMATM0054_53/blob/main/Labsheets/Supp/SL6_PlottingResults.ipynb) | **S. Labsheet 6**: Plotting Results |  Guidance and examples on plotting using Python and Google Colab.  |
 
 # Assessment 2 Projects
 
